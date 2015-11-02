@@ -1,0 +1,17 @@
+﻿Build started 9/23/2013 5:09:15 PM.
+     1>Project "F:\C\Users\Will\Documents\Finished Projects\TheDarkness\TheDarkness\TheDarkness.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\TheDarkness.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         TheDarkness.vcxproj -> F:\C\Users\Will\Documents\Finished Projects\TheDarkness\Debug\TheDarkness.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\TheDarkness.unsuccessfulbuild".
+         Touching "Debug\TheDarkness.lastbuildstate".
+     1>Done Building Project "F:\C\Users\Will\Documents\Finished Projects\TheDarkness\TheDarkness\TheDarkness.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11
